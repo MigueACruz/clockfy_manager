@@ -533,6 +533,10 @@
                 </div>
                 <div class="actions">
                     <span class="actions-hint" id="actionsHint">Generá la distribución para habilitar la carga.</span>
+                    <button class="btn btn-outline" onclick="resetAll()">
+                        <svg width="13" height="13" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clip-rule="evenodd"/></svg>
+                        Limpiar todo
+                    </button>
                     <button class="btn btn-success" onclick="loadToClockify()" id="loadBtn" disabled>
                         <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM6.293 6.707a1 1 0 010-1.414l3-3a1 1 0 011.414 0l3 3a1 1 0 01-1.414 1.414L11 5.414V13a1 1 0 11-2 0V5.414L7.707 6.707a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
                         Cargar a Clockify
@@ -1496,6 +1500,25 @@ function showToast(msg, type='info') {
     t.style.display = 'block';
     clearTimeout(t._timer);
     t._timer = setTimeout(() => t.style.display='none', 3500);
+}
+
+// ── Reset ─────────────────────────────────────────────────────────────────────
+
+function resetAll() {
+    selectedDates = [];
+    projects = [];
+    overtimeEntries = [];
+    currentBlocks = [];
+    currentOvertimeBlocks = [];
+    renderCalendar();
+    addProject();
+    addProject();
+    renderOvertime();
+    renderGrid([], []);
+    document.getElementById('loadBtn').disabled = true;
+    document.getElementById('actionsHint').textContent = 'Generá la distribución para habilitar la carga.';
+    document.getElementById('statsWrap').style.display = 'none';
+    document.getElementById('dayGrid').innerHTML = '<div class="no-dist">Seleccioná días y proyectos, luego generá la distribución.</div>';
 }
 
 // ── Theme ─────────────────────────────────────────────────────────────────────
