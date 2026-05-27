@@ -1193,9 +1193,10 @@ function renderGrid(blocks, overtimeBlocks = []) {
         if (!client) return;
         clientMap[client] = (clientMap[client] || 0) + slotHours(b.start, b.end);
     });
+    const clientTotal = Object.values(clientMap).reduce((s, h) => s + h, 0);
     const clientEntries = Object.entries(clientMap).sort((a,b) => b[1]-a[1]);
     clientEntries.forEach(([client, hrs]) => {
-        const pct = regularTotalH ? Math.round(hrs / regularTotalH * 100) : 0;
+        const pct = clientTotal ? Math.round(hrs / clientTotal * 100) : 0;
         clientSummary.innerHTML += `<div class="hours-chip">${client}<strong>${hrs}h</strong><span style="color:var(--text-3);font-size:0.72rem">${pct}%</span></div>`;
     });
 
