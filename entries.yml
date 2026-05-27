@@ -1,388 +1,86 @@
 timezone: "America/Argentina/Buenos_Aires"
 entries:
-  - date: "2026-03-02"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-02"
-    start: "14:00"
-    end: "18:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-03"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-03"
-    start: "14:00"
-    end: "18:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-04"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-04"
-    start: "14:00"
-    end: "18:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-05"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-05"
-    start: "14:00"
-    end: "18:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-06"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-06"
-    start: "14:00"
-    end: "18:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "09:00"
-    end: "13:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "14:00"
-    end: "15:00"
-    project: "ALMA SADI"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "15:00"
-    end: "18:00"
-    project: "Asistencia General a DNN"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-10"
-    start: "09:00"
-    end: "13:00"
-    project: "Asistencia General a DNN"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-10"
-    start: "14:00"
-    end: "18:00"
-    project: "Asistencia General a DNN"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-11"
-    start: "09:00"
-    end: "13:00"
-    project: "Asistencia General a DNN"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-11"
-    start: "14:00"
-    end: "17:00"
-    project: "Asistencia General a DNN"
-    client: "DNN"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-11"
-    start: "17:00"
-    end: "18:00"
-    project: "PSLMO"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-12"
-    start: "09:00"
-    end: "13:00"
-    project: "PSLMO"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-12"
-    start: "14:00"
-    end: "15:00"
-    project: "PSLMO"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-12"
-    start: "15:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-13"
+  - date: "2026-04-02"
     start: "09:00"
     end: "13:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
-    task: "Procesos / Otros"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-13"
+  - date: "2026-04-02"
     start: "14:00"
     end: "18:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
-    task: "Procesos / Otros"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-16"
+  - date: "2026-04-06"
     start: "09:00"
     end: "13:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
-    task: "Procesos / Otros"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-16"
+  - date: "2026-04-06"
     start: "14:00"
-    end: "17:00"
+    end: "18:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
-    task: "Procesos / Otros"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-16"
-    start: "17:00"
-    end: "18:00"
-    project: "PAMAS"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-17"
+  - date: "2026-04-07"
     start: "09:00"
     end: "13:00"
-    project: "PAMAS"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-17"
+  - date: "2026-04-07"
     start: "14:00"
     end: "18:00"
-    project: "PAMAS"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-18"
-    start: "09:00"
-    end: "11:00"
-    project: "PAMAS"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-18"
-    start: "11:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-18"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-19"
+  - date: "2026-04-08"
     start: "09:00"
     end: "13:00"
-    project: "PSJUN"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-19"
-    start: "14:00"
-    end: "16:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-19"
-    start: "16:00"
-    end: "18:00"
-    project: "PSSRA 30"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-20"
-    start: "09:00"
-    end: "12:00"
-    project: "PSSRA 30"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-20"
-    start: "12:00"
-    end: "13:00"
-    project: "PSSDV"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-20"
+  - date: "2026-04-08"
     start: "14:00"
     end: "18:00"
-    project: "PSSDV"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-25"
+  - date: "2026-04-09"
     start: "09:00"
     end: "13:00"
-    project: "PSSDV"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-25"
+  - date: "2026-04-09"
     start: "14:00"
     end: "18:00"
-    project: "PSSDV"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-26"
+  - date: "2026-04-10"
     start: "09:00"
     end: "13:00"
-    project: "PSSDV"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
-  - date: "2026-03-26"
-    start: "14:00"
-    end: "15:00"
-    project: "PSSDV"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-26"
-    start: "15:00"
-    end: "18:00"
-    project: "PELSA"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-27"
-    start: "09:00"
-    end: "11:00"
-    project: "PELSA"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-27"
-    start: "11:00"
-    end: "13:00"
-    project: "PEHUC"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-27"
+  - date: "2026-04-10"
     start: "14:00"
     end: "18:00"
-    project: "PEHUC"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-30"
-    start: "09:00"
-    end: "13:00"
-    project: "PEHUC"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-30"
-    start: "14:00"
-    end: "15:00"
-    project: "PEHUC"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-30"
-    start: "15:00"
-    end: "18:00"
-    project: "PSSJS"
+    project: "HORAS INDIRECTAS"
     client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-31"
-    start: "09:00"
-    end: "13:00"
-    project: "PSSJS"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-31"
-    start: "14:00"
-    end: "18:00"
-    project: "PSSJS"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
+    task: "Licencia / Vacaciones"
     billable: true
