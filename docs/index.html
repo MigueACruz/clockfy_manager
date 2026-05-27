@@ -807,7 +807,7 @@ function setMode(m) {
 }
 
 function computeWeightedPcts() {
-    const weights = projects.map(p => p.weight || 1);
+    const weights = projects.map(p => p.name.trim() ? (p.weight || 1) : 0);
     const total = weights.reduce((s, w) => s + w, 0);
     if (total === 0) return projects.map(() => 0);
     const exact = weights.map(w => w / total * 100);
