@@ -2,16 +2,8 @@ timezone: "America/Argentina/Buenos_Aires"
 entries:
   - date: "2026-06-08"
     start: "09:00"
-    end: "12:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-06-08"
-    start: "12:00"
     end: "13:00"
-    project: "PSSDV"
+    project: "PSLIN"
     client: "DPI"
     tags:
       - "Gestion de Ingenieria"
@@ -26,14 +18,6 @@ entries:
     billable: true
   - date: "2026-06-09"
     start: "09:00"
-    end: "12:00"
-    project: "PSSDV"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-06-09"
-    start: "12:00"
     end: "13:00"
     project: "PSSDV"
     client: "DPI"
