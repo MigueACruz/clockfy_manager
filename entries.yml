@@ -1,6 +1,6 @@
 timezone: "America/Argentina/Buenos_Aires"
 entries:
-  - date: "2026-03-02"
+  - date: "2026-02-18"
     start: "09:00"
     end: "13:00"
     project: "PSJUN"
@@ -8,7 +8,7 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-02"
+  - date: "2026-02-18"
     start: "14:00"
     end: "18:00"
     project: "PSJUN"
@@ -16,7 +16,7 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-03"
+  - date: "2026-02-19"
     start: "09:00"
     end: "13:00"
     project: "PSJUN"
@@ -24,87 +24,23 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-03"
+  - date: "2026-02-19"
     start: "14:00"
-    end: "18:00"
+    end: "16:00"
     project: "PSJUN"
     client: "DPI"
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-04"
-    start: "09:00"
-    end: "13:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-04"
-    start: "14:00"
-    end: "18:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-05"
-    start: "09:00"
-    end: "13:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-05"
-    start: "14:00"
-    end: "18:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-06"
-    start: "09:00"
-    end: "13:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-06"
-    start: "14:00"
-    end: "18:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "09:00"
-    end: "11:00"
-    project: "PSJUN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "11:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-09"
-    start: "14:00"
+  - date: "2026-02-19"
+    start: "16:00"
     end: "18:00"
     project: "PSLIN"
     client: "DPI"
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-10"
+  - date: "2026-02-20"
     start: "09:00"
     end: "13:00"
     project: "PSLIN"
@@ -112,7 +48,7 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-10"
+  - date: "2026-02-20"
     start: "14:00"
     end: "18:00"
     project: "PSLIN"
@@ -120,7 +56,7 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-11"
+  - date: "2026-02-24"
     start: "09:00"
     end: "13:00"
     project: "PSLIN"
@@ -128,7 +64,7 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-11"
+  - date: "2026-02-24"
     start: "14:00"
     end: "18:00"
     project: "PSLIN"
@@ -136,200 +72,50 @@ entries:
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-12"
+  - date: "2026-02-25"
     start: "09:00"
-    end: "13:00"
+    end: "12:00"
     project: "PSLIN"
     client: "DPI"
     tags:
       - "Gestion de Ingenieria"
     billable: true
-  - date: "2026-03-12"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-13"
-    start: "09:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-13"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-16"
-    start: "09:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-16"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-17"
-    start: "09:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-17"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-18"
-    start: "09:00"
-    end: "13:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-18"
-    start: "14:00"
-    end: "18:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-19"
-    start: "09:00"
-    end: "11:00"
-    project: "PSLIN"
-    client: "DPI"
-    tags:
-      - "Gestion de Ingenieria"
-    billable: true
-  - date: "2026-03-19"
-    start: "11:00"
+  - date: "2026-02-25"
+    start: "12:00"
     end: "13:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
     task: "Procesos / Otros"
     billable: true
-  - date: "2026-03-19"
+  - date: "2026-02-25"
     start: "14:00"
     end: "18:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
     task: "Procesos / Otros"
     billable: true
-  - date: "2026-03-20"
+  - date: "2026-02-26"
     start: "09:00"
     end: "13:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
     task: "Procesos / Otros"
     billable: true
-  - date: "2026-03-20"
+  - date: "2026-02-26"
     start: "14:00"
     end: "18:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
     task: "Procesos / Otros"
     billable: true
-  - date: "2026-03-23"
+  - date: "2026-02-27"
     start: "09:00"
     end: "13:00"
     project: "HORAS INDIRECTAS"
     client: "DPI"
     task: "Procesos / Otros"
     billable: true
-  - date: "2026-03-23"
-    start: "14:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-25"
-    start: "09:00"
-    end: "13:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-25"
-    start: "14:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-26"
-    start: "09:00"
-    end: "13:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-26"
-    start: "14:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-27"
-    start: "09:00"
-    end: "13:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-27"
-    start: "14:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-30"
-    start: "09:00"
-    end: "13:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-30"
-    start: "14:00"
-    end: "18:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-31"
-    start: "09:00"
-    end: "13:00"
-    project: "HORAS INDIRECTAS"
-    client: "DPI"
-    task: "Procesos / Otros"
-    billable: true
-  - date: "2026-03-31"
+  - date: "2026-02-27"
     start: "14:00"
     end: "18:00"
     project: "HORAS INDIRECTAS"
